@@ -1,7 +1,7 @@
 # Hossam El-Sayed Mahmoud El-Sayed El-Bassuiony
 **DevOps Engineer**  
 📧 hossambesso7@gmail.com | 📱 +20 1552832283 | 🌍 Tanta, Egypt  
-🔗 LinkedIn: linkedin.com/in/hossam-el-bassuiony-43b72622a/ | GitHub: github.com/Hossamelbassuiony310  
+🔗 LinkedIn: https://www.linkedin.com/in/hossam-el-bassuiony-43b72622a/ | Upwork: https://www.upwork.com/freelancers/~016e96fa44933e8afb  
 
 ---
 
