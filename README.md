@@ -22,6 +22,7 @@ Proven ability to own infrastructure end-to-end and deliver reliable systems for
 - Implemented complete CI/CD automation with GitHub Actions for build, test, versioning, and deployment.
 - Configured external DNS, SSL certificates, and domain routing using GoDaddy DNS.
 - Achieved consistent delivery quality, earning 2× 5-Star client ratings.
+
 **Production Mail Server Infrastructure**
 - Deployed full mail system using Docker-Mailserver, then migrated to Mailu with admin UI.
 - Configured SPF, DKIM, DMARC, rDNS, IPv4 & IPv6 achieving strong inbox delivery.
