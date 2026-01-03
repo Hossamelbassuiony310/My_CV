@@ -66,26 +66,35 @@ Role: DevOps Engineer
 ---
 
 ## Technical Skills
-**Cloud Platforms:**
-AWS, Azure, DigitalOcean, Hostinger VPS, Hetzner, GoDaddy DNS
-**Containerization & Orchestration:**
-Docker, Docker Swarm, Kubernetes (K8s, K3s, Minikube, Kind)
-**Infrastructure as Code (IaC):**
+**Cloud Platforms:**  
+AWS, Azure, DigitalOcean, Hostinger VPS, Hetzner, GoDaddy DNS  
+
+**Containerization & Orchestration:**  
+Docker, Docker Swarm, Kubernetes (K8s, K3s, Minikube, Kind)  
+
+**Infrastructure as Code (IaC):**  
 Terraform, Ansible  
-**CI/CD & Automation:**
-GitHub Actions, Jenkins, ArgoCD  
-**Monitoring & Observability:**
-Prometheus, Grafana, Loki, Datadog, Node Exporter
-**Email Infrastructure:**
-Mailu, Docker-Mailserver, Postfix, Dovecot, SPF, DKIM, DMARC, rDNS, SpamAssassin, ClamAV
-**Databases & Caching:**
-PostgreSQL, MySQL, Redis  
-**Networking:**
-HTTP/HTTPS, IPv4/IPv6, Subnetting, Load Balancing, Reverse Proxies (Traefik), Security Groups, DNS Management 
-**Programming & Scripting:**
-Bash, Python, YAML, JavaScript, C
-**OS & Platforms:**
-Linux (Ubuntu, CentOS), Vercel, Supabase 
+
+**CI/CD & Automation:**  
+GitHub Actions, Jenkins, ArgoCD   
+
+**Monitoring & Observability:**  
+Prometheus, Grafana, Loki, Datadog, Node Exporter  
+
+**Email Infrastructure:**  
+Mailu, Docker-Mailserver, Postfix, Dovecot, SPF, DKIM, DMARC, rDNS, SpamAssassin, ClamAV  
+
+**Databases & Caching:**  
+PostgreSQL, MySQL, Redis   
+
+**Networking:**  
+HTTP/HTTPS, IPv4/IPv6, Subnetting, Load Balancing, Reverse Proxies (Traefik), Security Groups, DNS Management   
+
+**Programming & Scripting:**  
+Bash, Python, YAML, JavaScript, C  
+
+**OS & Platforms:**  
+Linux (Ubuntu, CentOS), Vercel, Supabase   
 
 ---
 
